@@ -1,6 +1,6 @@
 ## 5.0.1
 
-* Add `MobileCore.setApplication` call in FlutterPlugin's `onAttachedToEngine` to accurately register lifecycle calbbacks for launcher activity.
+* Add `MobileCore.setApplication` call in Android FlutterPlugin's `onAttachedToEngine` to accurately register lifecycle callbacks for launcher activity.
 
 ## 5.0.0
 
